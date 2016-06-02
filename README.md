@@ -2,7 +2,11 @@
 
 # install
 
-# example:
+```
+$ npm i reg-match-arr
+```
+
+# usage example:
 
 ```js
 import regMatchArr from 'reg-match-arr'
